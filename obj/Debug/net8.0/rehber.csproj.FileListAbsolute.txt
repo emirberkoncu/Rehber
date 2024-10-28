@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\rehber\bin\Debug\net8.0\rehber.exe
+c:\Users\defeatedbynone\Desktop\cs#\rehber\bin\Debug\net8.0\rehber.deps.json
+c:\Users\defeatedbynone\Desktop\cs#\rehber\bin\Debug\net8.0\rehber.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\rehber\bin\Debug\net8.0\rehber.dll
+c:\Users\defeatedbynone\Desktop\cs#\rehber\bin\Debug\net8.0\rehber.pdb
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.dll
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\refint\rehber.dll
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.pdb
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\rehber.genruntimeconfig.cache
+c:\Users\defeatedbynone\Desktop\cs#\rehber\obj\Debug\net8.0\ref\rehber.dll
